@@ -11,5 +11,5 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
-	User user = new User(1, "valdir", "email@gmail.com", "1234");
+
 }
